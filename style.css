@@ -1,0 +1,15 @@
+.main-section{
+    margin-top: 50px;
+    border: solid;
+}
+.index-header{
+    justify-content: center;
+    
+    margin-left: 60%;
+}
+.about-photo{
+    margin-left: 55%;
+}
+#bio{
+    right: 50px;
+}
